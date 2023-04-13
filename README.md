@@ -1,2 +1,3 @@
 # Bank-Management-System-using-C-language
-#This is first commit
+#credits: Yugandhar Veesam
+#veesamyugandhar2000@gmail.com
